@@ -6,26 +6,30 @@ As long as it is hidden behind a cabinet or in a place that is unsightly, it is 
 
 As for smart home devices, I am actively using devices from [modkam.ru](https://modkam.ru/2022/12/14/presence_sensor/), [Espresence](https://espresense.com/), and [nuki-hub](https://github.com/technyon/nuki_hub) within my smart home. Thus, it was decided to make a universal enclosure for all of these devices that could be used in a standard euro socket. 
 
-![render](I:\eu-plug-diy-case\images\render.png)
+![render](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/render.png)
+
+
+https://user-images.githubusercontent.com/6010713/219626959-2ab554b3-3e1c-4245-978c-ea4f98111ab3.mp4
+
 
 # Assembly
 
 To assemble the enclosure we need an EU adapter. 
 
-![eu-adapter](I:\eu-plug-diy-case\images\eu-adapter.jpg)
+![eu-adapter](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/eu-adapter.jpg)
 
-![eu-adapter-2](I:\eu-plug-diy-case\images\eu-adapter-2.jpg)
+![eu-adapter-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/eu-adapter-2.jpg)
 
 From there, we pull out the pins and pinch the pins.   
 
 Next, we heat the nut and press it into the adapter.
 
-![Thread-Nut](I:\eu-plug-diy-case\images\Thread-Nut.jpg)
+![Thread-Nut](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/Thread-Nut.jpg)
 
-![plug-inside](I:\eu-plug-diy-case\images\plug-inside.jpg)
+![plug-inside](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-inside.jpg)
 
-![plug-pins](I:\eu-plug-diy-case\images\plug-pins.jpg)
+![plug-pins](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-pins.jpg)
 
-![plug-wall](I:\eu-plug-diy-case\images\plug-wall.jpg)
+![plug-wall](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall.jpg)
 
-![plug-wall-2](I:\eu-plug-diy-case\images\plug-wall-2.jpg)
+![plug-wall-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall-2.jpg)
