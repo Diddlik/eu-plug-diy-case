@@ -11,6 +11,8 @@ As for smart home devices, I am actively using devices from [modkam.ru](https://
 
 https://user-images.githubusercontent.com/6010713/219626959-2ab554b3-3e1c-4245-978c-ea4f98111ab3.mp4
 
+# Parts you need
+
 
 # Assembly
 
@@ -24,7 +26,7 @@ To assemble the enclosure we need an EU adapter.
 
 From there, we pull out the pins and pinch the pins.   
 
-Next, we heat the nut and press it into the adapter.
+Next, we heat the nut and press it into the adapter. I used M3 nut.
 
 ![Thread-Nut](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/Thread-Nut.jpg)
 
