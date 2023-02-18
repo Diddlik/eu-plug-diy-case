@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/6010713/219626959-2ab554b3-3e1c-4245-9
 - Glue
 
   
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V2IUF3M)
 
 # Assembly
 
