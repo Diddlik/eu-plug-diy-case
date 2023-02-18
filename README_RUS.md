@@ -8,8 +8,9 @@
 
 ![render](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/render.png)
 
-
 https://user-images.githubusercontent.com/6010713/219626959-2ab554b3-3e1c-4245-978c-ea4f98111ab3.mp4
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V2IUF3M)
 
 # Что нам нужно
 
