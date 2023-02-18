@@ -13,6 +13,14 @@ https://user-images.githubusercontent.com/6010713/219626959-2ab554b3-3e1c-4245-9
 
 # Parts you need
 
+- EU Adapter ([Click](https://alishort.com/WNKiC))
+
+- M3 Thread Nut ([Click](https://alishort.com/acRTb))
+
+- Glue
+
+  
+
 
 # Assembly
 
@@ -45,5 +53,4 @@ These two parts need to be glued together
 ![plug-wall](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall.jpg)
 
 ![plug-wall-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall-2.jpg)
-
 
