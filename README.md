@@ -20,11 +20,21 @@ To assemble the enclosure we need an EU adapter.
 
 ![eu-adapter-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/eu-adapter-2.jpg)
 
+![plug-opened-1](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-1.jpg)
+
 From there, we pull out the pins and pinch the pins.   
 
 Next, we heat the nut and press it into the adapter.
 
 ![Thread-Nut](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/Thread-Nut.jpg)
+
+Like this:
+
+![plug-opened-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-2.jpg)
+
+These two parts need to be glued together
+
+![grafik](https://user-images.githubusercontent.com/6010713/219852346-88479e2a-5c31-4f82-a713-1cc7d1ec5373.png)
 
 ![plug-inside](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-inside.jpg)
 
@@ -34,5 +44,4 @@ Next, we heat the nut and press it into the adapter.
 
 ![plug-wall-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall-2.jpg)
 
-![plug-opened-1](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-1.jpg)
-![plug-opened-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-2.jpg)
+
