@@ -33,3 +33,6 @@ Next, we heat the nut and press it into the adapter.
 ![plug-wall](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall.jpg)
 
 ![plug-wall-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-wall-2.jpg)
+
+![plug-opened-1](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-1.jpg)
+![plug-opened-2](https://github.com/Diddlik/eu-plug-diy-case/blob/main/images/plug-opened-2.jpg)
